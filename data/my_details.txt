@@ -1,0 +1,81 @@
+=== PERSONAL INFORMATION ===
+Name: Ripesh Khadka
+Age: 23
+Date of Birth: 
+Gender: Male
+Location: Kathmandu, Nepal
+Languages Spoken: Nepali, English
+
+=== CONTACT INFORMATION ===
+Email: ripeshkhadka.official@gmail.com
+Phone: +977 9863003256
+GitHub: github.com/KhadkaRipesh
+LinkedIn: https://np.linkedin.com/in/ripesh-khadka-307022236
+Portfolio: https://www.ripeshkhadka.com.np/
+
+=== PROFESSIONAL INFORMATION ===
+Occupation: Software Developer
+Experience: 3 years
+Work Type: Full time / Part time / Freelance
+Current Company: Innovate Tech
+Available for: Freelance projects, Job opportunities
+
+=== EDUCATION ===
+Degree: Bsc Hons. Computing
+University: London Metropoliton University
+Graduation Year: 2024
+Relevant Courses: Information technology
+
+=== SKILLS ===
+Frontend: React, HTML, CSS, JavaScript
+Backend: Python, FastAPI, Node.js
+Databases: PostgreSQL, MongoDB
+Tools: Git, Docker, VS Code
+Currently Learning: AI, Machine Learning
+
+=== PROJECTS ===
+Project 1:
+  Name: My Assistant
+  Description: A personal RAG chatbot using Qwen3 and LlamaIndex
+  Tech Stack: Python, LlamaIndex, Ollama
+  GitHub: github.com/KhadkaRipesh/my-assistant
+
+Project 2:
+  Name: 
+  Description: 
+  Tech Stack: 
+  GitHub: 
+
+Project 3:
+  Name: 
+  Description: 
+  Tech Stack: 
+  GitHub: 
+
+=== HOBBIES & INTERESTS ===
+Hobbies: Reading, Gaming, Hiking
+Interests: 
+Favorite Books: 
+Favorite Games: 
+
+=== PERSONAL TRAITS ===
+Personality: Curious, Problem solver, Team player
+Strengths: 
+Weaknesses: 
+Goals: To become a full stack AI developer
+Dream Company: 
+Favorite Quote: 
+
+=== FUN FACTS ===
+- 
+- 
+- 
+
+=== ACHIEVEMENTS ===
+- 
+- 
+- 
+
+=== SOCIAL CAUSE / VALUES ===
+Passionate about: 
+Volunteer work:
