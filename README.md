@@ -58,13 +58,18 @@ A personal AI chatbot that answers questions about me using RAG powered by Qwen3
 
 ## Usage
 
+```
 Chatbot ready! Type 'exit' to quit.
+
 You: What are your skills?
 Bot: Ripesh is skilled in Python, JavaScript, and React.
+
 You: Where do you live?
 Bot: Ripesh lives in Kathmandu, Nepal.
+
 You: exit
 Goodbye!
+```
 
 ## Author
 
